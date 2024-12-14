@@ -1,0 +1,17 @@
+# Node.js modules
+node_modules/
+
+# Next.js build output
+.next/
+out/
+
+# Environment variables
+.env.local
+
+# Logs
+logs/
+*.log
+
+# IDE settings
+.vscode/
+.DS_Store
